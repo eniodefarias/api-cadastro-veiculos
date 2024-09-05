@@ -25,16 +25,16 @@ API Restfull para cadastros de veiculos e ativacao com autenticacao
  4.	Testes Unitários: 
   - O candidato deverá escrever testes unitários para garantir a qualidade e o correto funcionamento da API.
   - Os testes devem cobrir os principais cenários de uso e verificar se os endpoints estão retornando as respostas esperadas.
-   -> criar teste com unittest
+   - criar teste com unittest
 
  5.	Execução local do serviço: 
  - documentar instruções claras para executar o projeto localmente e testar os endpoints.
  - O serviço deve ser executado de forma a expor os endpoints localmente para que possa realizar as operações de CRUD. -> automatize com make
 
  - dicas:
-   -> usar bd local: sqlite
-   -> criar o projetor em docker
-   -> usar fastapi, usar sqlite
-   -> documentar 
-   -> criar o swagger
-   -> usar o uvicorn
+   - usar bd local: sqlite
+   - criar o projetor em docker
+   - usar fastapi, usar sqlite
+   - documentar 
+   - criar o swagger
+   - usar o uvicorn
