@@ -33,7 +33,7 @@ API Restfull para cadastros de veiculos e ativacao com autenticacao
 
  - dicas:
    - usar bd local: sqlite
-   - criar o projetor em docker
+   - criar o projeto em docker
    - usar fastapi, usar sqlite
    - documentar 
    - criar o swagger
