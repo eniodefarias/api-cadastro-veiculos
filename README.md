@@ -25,7 +25,7 @@ API Restfull para cadastros de veiculos e ativacao com autenticacao
  4.	Testes Unitários: 
   - O candidato deverá escrever testes unitários para garantir a qualidade e o correto funcionamento da API.
   - Os testes devem cobrir os principais cenários de uso e verificar se os endpoints estão retornando as respostas esperadas.
-   - > criar teste com unittest
+   -> criar teste com unittest
 
  5.	Execução local do serviço: 
  - documentar instruções claras para executar o projeto localmente e testar os endpoints.
